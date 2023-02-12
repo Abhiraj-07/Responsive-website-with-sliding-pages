@@ -1,0 +1,147 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+
+#containe {
+    position: relative;
+    /* overflow: hidden; */
+    width: 100vw;
+    height: 100vh;
+
+    
+}
+
+#sliderItems {
+    
+
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500%;
+    height: 100%;
+    float: left;
+
+
+    
+
+
+}
+
+
+.context {
+
+    
+
+    margin: 2vw;
+    background-color: rgba(0, 0, 0, .5);
+    position: absolute;
+    width: 96vw;
+    bottom: 70px;
+}
+
+.context>h1 {
+
+    padding-left: 5vw;
+}
+
+.context>p {
+    padding: 10px;
+
+}
+
+#slider_1 {
+
+
+
+    width: 20%;
+    height: 100%;
+    float: left;
+
+
+    /*                  background Property */
+    background-image: url('/images/pexels-andy-vu-3244513.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+
+
+}
+
+#slider_2 {
+    width: 20%;
+    height: 100%;
+    float: left;
+
+
+
+    /*                  background Property */
+    background-image: url('/images/pexels-pixabay-33109.jpg');
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    
+
+}
+
+#slider_3 {
+
+    width: 20%;
+    height: 100%;
+    float: left;
+    
+    
+    /*                  background Property */
+    /* background-image: url('/images/pexels-luis-dalvan-1770809.jpg'); */
+    background-image: url('/images/pexels-skyler-ewing-4818015.jpg');
+
+    background-position: center;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+
+    
+}
+
+#slider_4 {
+
+    width: 20%;
+    height: 100%;
+    float: left;
+
+    
+    /*                  background Property */
+    background-image: url('/images/pexels-ian-beckley-2440021.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    
+    
+    
+}
+
+#slider_5 {
+    
+    width: 20%;
+    height: 100%;
+    float: left;
+
+    
+    /*                  background Property */
+    background-image: url('/images/pexels-mateusz-sałaciak-4275892.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    
+
+    
+}
